@@ -1,2 +1,2 @@
 # HotPlate
-Using Spark Core to measure and broadcast over internet
+Using Spark Core to measure Hot Plate temperature and broadcast over internet
